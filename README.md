@@ -41,6 +41,8 @@ Follow these steps to get Sidekick running on your local machine.
 
 ### 1. Clone the Repository
 
+**Note**: Replace `<your-github-username/your-repo-name.git>` and `<your-repo-name>` with your actual repository details.
+
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone [https://github.com/](https://github.com/)<your-github-username/your-repo-name.git>
+cd <your-repo-name>
