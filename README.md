@@ -1,1 +1,1 @@
-# SickSidekick---Autonomous-AI-Co-Worker
+# Sidekick-Autonomous-AI-Co-Worker
